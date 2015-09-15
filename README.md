@@ -1,0 +1,2 @@
+# generic.github.io
+generic
